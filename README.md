@@ -5,7 +5,7 @@ I'm a quantitative researcher in the [Buckler Lab at Cornell University](http://
 
 My background is in mathematics and theoretical physics. Prior to joining Buckler lab, I had zero knowledge of bioinformatics and genomics. In past year and half, I have read a bunch of papers, bugged my coworkers, spammed forums to get an idea of basic concepts. 
 
-As a first step in disseminating my learnings, I decided** to make a list of some papers that I read in first 6 months of my job. I believe this will help someone with a background in mathematics/statistics/CS to begin in bioinformatics and computational genomics. These still require some knowledge of basic genomic terminology which took me a couple months to get to. 
+As a first step in disseminating my learnings, I decided to make a list of some papers that I read in first 6 months of my job. I believe this will help someone with a background in mathematics/statistics/CS to begin in bioinformatics and computational genomics. These still require some knowledge of basic genomic terminology which took me a couple months to get to. 
 
 Most of these papers assume familiarity with statistics, linear algebra, computer science fundamentals and knowledge of basic genomics lingo. Some papers also require basic knowledge in data mining and machine learning. 
 
@@ -53,4 +53,4 @@ Byubg-Jun Yoon (2008) [Hidden Markov models and their applications in biological
 - [VCF](http://samtools.github.io/hts-specs/VCFv4.1.pdf)
 - [SAM/BAM](http://samtools.github.io/hts-specs/SAMv1.pdf)
 
-** - It was a task assigned to me by my adviser. 
+ 
